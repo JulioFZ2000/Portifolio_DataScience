@@ -137,6 +137,19 @@ where tp.status_pedido = 'entregue'
 group by tp.status_pedido;
 
 
+/* 
+		Quantidade de produtos vendidos por Cliente
+	Quanto foi a quantidade de produtos vendidas por Cliente?
+*/
+
+
+SELECT tc.nome_cli, 
+       SUM(tip.qtd_produto) AS qtd_produtos_comprados
+FROM t_clientes tc
+INNER JOIN t_pedidos tp ON tc.id_cliente = tp.id_cliente
+INNER JOIN t_itens_pedido tip ON tp.id_pedido = tip.id_pedido
+GROUP BY tc.nome_cli
+ORDER BY qtd_produtos_comprados DESC;
 
 
 
