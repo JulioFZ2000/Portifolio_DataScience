@@ -97,10 +97,10 @@ order by valor_gasto desc;
 	Quanto cada produto rendeu em vendas?
 */
 
-SELECT tp.nome_prod,
-       SUM(tp.preco_prod * tip.qtd_produto) AS total_vendas_produtos
+SELECT tpr.nome_prod,
+       SUM(tpr.preco_prod * tip.qtd_produto) AS total_vendas_produtos
 FROM t_itens_pedido tip
-inner jOIN t_produtos tp ON tip.id_produto = tp.id_produto
+inner jOIN t_produtos tpr ON tip.id_produto = tpr.id_produto
 GROUP BY tip.id_produto
 order by total_vendas_produtos desc;
 
