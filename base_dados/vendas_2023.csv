@@ -1,0 +1,1001 @@
+id_pedido,data_pedido,nome_cliente,produto,qtd_produto
+1,2023/10/19,Marcela Costa,Água de Coco,5
+2,2023/09/03,Carlos Silva,Pipoca de Micro-ondas,2
+3,2023/12/05,Pedro Martins,Sorvete de Chocolate,3
+4,2023/08/05,José Oliveira,Queijo Minas Frescal,3
+5,2023/02/26,Marcos Pereira,Geleia de Frutas Vermelhas,8
+6,2023/10/15,Gabriel Costa,Melancia Sem Semente,4
+7,2023/02/17,Juliana Silva,Sal Marinho,1
+8,2023/06/26,Marcela Souza,Salmão Fresco,6
+9,2023/07/18,Fernanda Souza,Semente de Chia,6
+10,2023/08/17,Marcos Oliveira,Batata Doce,1
+11,2023/07/09,Gabriel Pereira,Peito de Frango,2
+12,2023/09/03,Camila Martins,Tomate Italiano,1
+13,2023/12/05,Larissa Oliveira,Pasta de Amendoim,3
+14,2023/02/09,Marcos Rodrigues,Maçã Gala,6
+15,2023/05/17,Luiza Pereira,Batata Doce,5
+16,2023/07/30,Marcela Almeida,Chocolate Amargo,5
+17,2023/11/10,Maria Gomes,Creme de Leite,3
+18,2023/12/28,José Lima,Pasta de Alho,2
+19,2023/06/21,José Oliveira,Cenoura Orgânica,4
+20,2023/08/22,Pedro Souza,Sorvete de Chocolate,7
+21,2023/08/14,Marcela Souza,Cerveja Artesanal,7
+22,2023/03/12,João Oliveira,Arroz Integral,8
+23,2023/01/10,Luiza Silva,Ovos Orgânicos,3
+24,2023/11/11,Carlos Pereira,Chá Verde,3
+25,2023/09/12,Bruno Martins,Queijo Minas Frescal,4
+26,2023/11/27,Bruno Silva,Pão de Forma Integral,4
+27,2023/12/22,Beatriz Costa,Semente de Chia,3
+28,2023/08/29,Camila Rodrigues,Peito de Frango,4
+29,2023/11/29,Gabriel Oliveira,Atum em Lata,8
+30,2023/03/20,Marcos Oliveira,Castanha do Pará,1
+31,2023/10/13,Larissa Lima,Atum em Lata,1
+32,2023/11/30,Larissa Martins,Biscoito Integral,6
+33,2023/09/29,Lucas Oliveira,Melancia Sem Semente,8
+34,2023/11/20,Luiza Almeida,Cenoura Orgânica,3
+35,2023/09/28,Beatriz Oliveira,Atum em Lata,3
+36,2023/10/12,Luiza Souza,Pasta de Alho,6
+37,2023/10/23,Marcela Silva,Bolo de Cenoura,4
+38,2023/09/25,Rafael Rodrigues,Sal Marinho,6
+39,2023/08/31,Juliana Souza,Suco de Laranja Natural,3
+40,2023/09/04,Marcela Martins,Abacate Maduro,8
+41,2023/12/29,José Pereira,Farinha de Aveia,8
+42,2023/08/10,Marcela Pereira,Geléia de Morango,4
+43,2023/11/24,Larissa Lima,Maçã Gala,6
+44,2023/08/28,Paula Pereira,Água de Coco,6
+45,2023/10/19,Marcela Costa,Castanha do Pará,3
+46,2023/02/10,João Lima,Molho de Tomate,7
+47,2023/02/22,Rafael Rodrigues,Refrigerante de Guaraná,4
+48,2023/11/02,Larissa Lima,Sal Marinho,2
+49,2023/10/27,Pedro Rodrigues,Tomate Italiano,3
+50,2023/07/16,Felipe Pereira,Barras de Cereal,7
+51,2023/09/29,Juliana Pereira,Atum em Lata,8
+52,2023/04/01,Carlos Silva,Geléia de Morango,4
+53,2023/05/05,José Lima,Iogurte Natural,6
+54,2023/03/12,Paula Martins,Pasta de Amendoim,8
+55,2023/09/22,Gabriel Silva,Refrigerante de Guaraná,7
+56,2023/10/15,Marcela Oliveira,Chá Verde,4
+57,2023/09/02,Gabriel Pereira,Abacate Maduro,1
+58,2023/11/30,Rafael Lima,Cerveja Artesanal,1
+59,2023/11/09,Luiza Souza,Iogurte Natural,4
+60,2023/04/28,Bruno Costa,Molho de Tomate,2
+61,2023/10/10,Lucas Silva,Chocolate Amargo,1
+62,2023/11/07,Luiza Souza,Abacate Maduro,1
+63,2023/07/27,Larissa Gomes,Cenoura Orgânica,1
+64,2023/01/31,Maria Rodrigues,Castanha do Pará,3
+65,2023/08/13,Lucas Costa,Chocolate Amargo,3
+66,2023/11/29,Marcela Martins,Manteiga sem Sal,5
+67,2023/04/26,João Martins,Peito de Frango,8
+68,2023/09/27,Gabriel Oliveira,Mel Puro,4
+69,2023/08/28,Fernanda Almeida,Sorvete de Chocolate,1
+70,2023/04/14,Marcos Martins,Leite Desnatado,7
+71,2023/12/08,Camila Costa,Pasta de Amendoim,6
+72,2023/10/03,Lucas Costa,Ovos Orgânicos,5
+73,2023/03/02,Beatriz Pereira,Barras de Cereal,2
+74,2023/07/14,Bruno Lima,Salmão Fresco,5
+75,2023/01/18,Maria Pereira,Abacate Maduro,4
+76,2023/12/30,Gabriel Silva,Molho de Tomate,4
+77,2023/08/06,Maria Oliveira,Geleia de Frutas Vermelhas,8
+78,2023/08/28,Maria Oliveira,Queijo Minas Frescal,4
+79,2023/11/26,Luiza Souza,Salmão Fresco,8
+80,2023/04/25,Larissa Martins,Chocolate Amargo,7
+81,2023/09/01,Gabriel Costa,Leite Desnatado,4
+82,2023/02/22,Beatriz Oliveira,Feijão Preto,2
+83,2023/11/13,João Costa,Azeitonas Verdes,5
+84,2023/10/27,Pedro Oliveira,Maçã Gala,4
+85,2023/08/28,José Silva,Sorvete de Chocolate,7
+86,2023/12/07,Gabriel Almeida,Pasta de Amendoim,7
+87,2023/11/01,Felipe Lima,Queijo Minas Frescal,3
+88,2023/12/06,Marcela Pereira,Farinha de Aveia,5
+89,2023/04/10,Marcos Lima,Macarrão Espaguete,7
+90,2023/05/31,Lucas Souza,Arroz Integral,1
+91,2023/08/17,Fernanda Almeida,Pêssego em Calda,7
+92,2023/10/13,Rafael Rodrigues,Feijão Preto,7
+93,2023/09/11,Larissa Costa,Batata Doce,5
+94,2023/03/11,João Costa,Refrigerante de Guaraná,6
+95,2023/04/02,Gabriel Souza,Batata Doce,5
+96,2023/11/09,Rafael Pereira,Creme de Leite,1
+97,2023/09/09,Marcos Rodrigues,Pêssego em Calda,2
+98,2023/03/07,José Silva,Azeite de Oliva Extra Virgem,8
+99,2023/04/01,José Rodrigues,Iogurte Natural,3
+100,2023/07/21,Pedro Pereira,Salmão Fresco,1
+101,2023/06/19,Marcela Lima,Água de Coco,4
+102,2023/12/28,Pedro Silva,Cenoura Orgânica,3
+103,2023/10/27,Fernanda Costa,Alface Crespa,6
+104,2023/03/28,Bruno Oliveira,Atum em Lata,8
+105,2023/04/24,Fernanda Silva,Pimenta do Reino,1
+106,2023/02/16,Carlos Martins,Molho de Tomate,4
+107,2023/07/19,João Rodrigues,Biscoito Integral,4
+108,2023/05/26,Paula Souza,Semente de Chia,4
+109,2023/09/27,Ana Pereira,Feijão Preto,8
+110,2023/11/16,Juliana Gomes,Macarrão Espaguete,4
+111,2023/04/10,João Souza,Peito de Frango,6
+112,2023/06/05,Marcela Gomes,Refrigerante de Guaraná,7
+113,2023/12/15,Bruno Rodrigues,Abacate Maduro,8
+114,2023/06/21,Pedro Silva,Feijão Preto,5
+115,2023/05/27,Juliana Pereira,Arroz Integral,4
+116,2023/04/04,Rafael Rodrigues,Sal Marinho,2
+117,2023/06/21,João Oliveira,Água de Coco,7
+118,2023/03/20,Lucas Lima,Pêssego em Calda,5
+119,2023/09/07,Gabriel Oliveira,Sal Marinho,2
+120,2023/10/28,Ana Lima,Abacate Maduro,2
+121,2023/01/19,Carlos Lima,Granola,3
+122,2023/12/29,Carlos Pereira,Geléia de Morango,7
+123,2023/12/22,Lucas Rodrigues,Pasta de Amendoim,5
+124,2023/10/30,Larissa Costa,Queijo Minas Frescal,6
+125,2023/07/16,Fernanda Silva,Creme de Leite,7
+126,2023/02/05,Maria Lima,Alface Crespa,4
+127,2023/01/15,Juliana Rodrigues,Atum em Lata,6
+128,2023/12/13,Fernanda Silva,Leite Desnatado,7
+129,2023/04/16,Paula Gomes,Abacate Maduro,5
+130,2023/07/09,Juliana Souza,Cerveja Artesanal,3
+131,2023/06/12,Beatriz Lima,Arroz Integral,4
+132,2023/05/01,Marcela Souza,Alface Crespa,8
+133,2023/07/20,Paula Silva,Feijão Preto,1
+134,2023/01/26,Larissa Oliveira,Cerveja Artesanal,1
+135,2023/02/26,Luiza Rodrigues,Cenoura Orgânica,2
+136,2023/05/05,Luiza Lima,Cenoura Orgânica,5
+137,2023/05/26,Marcos Almeida,Pão de Queijo Congelado,4
+138,2023/08/09,José Rodrigues,Manteiga sem Sal,8
+139,2023/12/22,Marcos Costa,Arroz Integral,7
+140,2023/05/21,Bruno Lima,Castanha do Pará,1
+141,2023/10/08,Marcos Pereira,Cenoura Orgânica,1
+142,2023/01/10,Bruno Lima,Feijão Preto,6
+143,2023/01/06,Beatriz Almeida,Farinha de Aveia,5
+144,2023/01/03,Pedro Silva,Bolo de Cenoura,8
+145,2023/07/31,Luiza Gomes,Sorvete de Chocolate,4
+146,2023/01/11,Marcos Costa,Barras de Cereal,5
+147,2023/09/02,Pedro Pereira,Barras de Cereal,7
+148,2023/08/22,Carlos Pereira,Iogurte Natural,4
+149,2023/10/08,Paula Oliveira,Sorvete de Chocolate,6
+150,2023/12/29,João Lima,Peito de Frango,8
+151,2023/02/12,Bruno Rodrigues,Cerveja Artesanal,3
+152,2023/07/21,Beatriz Oliveira,Melancia Sem Semente,2
+153,2023/04/15,Larissa Souza,Melancia Sem Semente,2
+154,2023/03/01,Ana Rodrigues,Café Torrado e Moído,6
+155,2023/04/28,Juliana Silva,Farinha de Aveia,2
+156,2023/09/01,Marcela Martins,Tomate Italiano,6
+157,2023/01/23,Lucas Martins,Suco de Laranja Natural,8
+158,2023/09/14,Fernanda Costa,Banana Prata,3
+159,2023/10/20,Luiza Lima,Azeite de Oliva Extra Virgem,7
+160,2023/06/29,Gabriel Martins,Peito de Frango,2
+161,2023/06/11,Beatriz Silva,Castanha do Pará,3
+162,2023/07/13,Pedro Silva,Queijo Minas Frescal,4
+163,2023/12/06,Ana Costa,Café Torrado e Moído,2
+164,2023/01/08,Carlos Silva,Suco de Laranja Natural,2
+165,2023/07/28,Ana Rodrigues,Pasta de Amendoim,3
+166,2023/01/30,Paula Gomes,Geléia de Morango,3
+167,2023/06/13,Lucas Rodrigues,Geléia de Morango,4
+168,2023/12/05,José Gomes,Bolo de Cenoura,2
+169,2023/07/31,Juliana Rodrigues,Feijão Preto,8
+170,2023/10/21,Fernanda Pereira,Castanha do Pará,1
+171,2023/11/30,Marcos Pereira,Farinha de Aveia,3
+172,2023/08/23,Rafael Almeida,Peito de Frango,7
+173,2023/12/18,Marcos Gomes,Melancia Sem Semente,8
+174,2023/08/17,Ana Souza,Tomate Italiano,8
+175,2023/12/05,Lucas Martins,Creme de Leite,5
+176,2023/12/16,Pedro Almeida,Manteiga sem Sal,2
+177,2023/04/16,Juliana Souza,Farinha de Aveia,7
+178,2023/02/18,Maria Pereira,Suco de Laranja Natural,7
+179,2023/12/10,Rafael Rodrigues,Azeite de Oliva Extra Virgem,2
+180,2023/12/13,Marcos Rodrigues,Chá Verde,2
+181,2023/08/25,Bruno Lima,Manteiga sem Sal,7
+182,2023/12/14,Carlos Martins,Pão de Queijo Congelado,5
+183,2023/07/19,Bruno Oliveira,Abacate Maduro,5
+184,2023/08/18,Rafael Souza,Abacate Maduro,6
+185,2023/05/01,Marcela Martins,Farinha de Aveia,3
+186,2023/06/06,Ana Costa,Pão de Queijo Congelado,6
+187,2023/07/10,Larissa Costa,Abacate Maduro,4
+188,2023/10/26,Paula Pereira,Sorvete de Chocolate,2
+189,2023/11/30,Carlos Gomes,Geléia de Morango,4
+190,2023/08/14,Larissa Pereira,Castanha do Pará,5
+191,2023/05/07,Fernanda Oliveira,Refrigerante de Guaraná,3
+192,2023/05/10,Ana Souza,Batata Doce,4
+193,2023/12/06,Camila Pereira,Castanha do Pará,6
+194,2023/08/10,Fernanda Oliveira,Pão de Forma Integral,5
+195,2023/02/01,Rafael Rodrigues,Barras de Cereal,6
+196,2023/04/16,Paula Costa,Geléia de Morango,2
+197,2023/03/18,Gabriel Rodrigues,Alface Crespa,6
+198,2023/05/20,José Silva,Barras de Cereal,3
+199,2023/12/10,Fernanda Martins,Iogurte Natural,1
+200,2023/03/12,José Pereira,Iogurte Natural,5
+201,2023/12/15,Beatriz Souza,Leite Desnatado,2
+202,2023/06/15,Paula Silva,Atum em Lata,4
+203,2023/09/22,Carlos Rodrigues,Pão de Forma Integral,1
+204,2023/06/20,Felipe Pereira,Melancia Sem Semente,6
+205,2023/02/23,Luiza Costa,Leite Desnatado,4
+206,2023/01/07,Carlos Rodrigues,Pimenta do Reino,4
+207,2023/04/27,Marcela Oliveira,Castanha do Pará,3
+208,2023/04/05,José Gomes,Pêssego em Calda,7
+209,2023/05/29,José Gomes,Ovos Orgânicos,7
+210,2023/12/08,Camila Oliveira,Água de Coco,3
+211,2023/01/24,Marcela Pereira,Molho de Tomate,3
+212,2023/11/04,Bruno Oliveira,Leite Desnatado,2
+213,2023/03/04,Juliana Almeida,Pimenta do Reino,6
+214,2023/09/21,Pedro Silva,Suco de Laranja Natural,1
+215,2023/06/02,João Souza,Bolo de Cenoura,1
+216,2023/01/26,Camila Rodrigues,Banana Prata,2
+217,2023/12/21,Rafael Oliveira,Biscoito Integral,8
+218,2023/03/14,Marcela Gomes,Tomate Italiano,5
+219,2023/08/12,Ana Gomes,Água de Coco,8
+220,2023/10/15,Bruno Costa,Pêssego em Calda,3
+221,2023/05/31,Luiza Lima,Barras de Cereal,8
+222,2023/03/24,Rafael Almeida,Melancia Sem Semente,6
+223,2023/06/06,Paula Souza,Molho de Tomate,8
+224,2023/01/21,Camila Almeida,Atum em Lata,1
+225,2023/12/25,João Rodrigues,Geleia de Frutas Vermelhas,3
+226,2023/06/11,Ana Gomes,Pêssego em Calda,1
+227,2023/05/05,João Silva,Mel Puro,2
+228,2023/09/11,Marcos Costa,Pimenta do Reino,7
+229,2023/02/03,Camila Rodrigues,Manteiga sem Sal,5
+230,2023/05/27,Marcos Costa,Água de Coco,8
+231,2023/05/22,Felipe Souza,Pipoca de Micro-ondas,4
+232,2023/11/05,Camila Silva,Pão de Queijo Congelado,6
+233,2023/08/12,Maria Pereira,Manteiga sem Sal,5
+234,2023/11/23,Marcela Almeida,Chá Verde,5
+235,2023/03/30,Pedro Silva,Suco de Laranja Natural,5
+236,2023/10/16,Paula Almeida,Pasta de Amendoim,5
+237,2023/11/09,Fernanda Gomes,Biscoito Integral,1
+238,2023/04/07,Lucas Martins,Pão de Queijo Congelado,8
+239,2023/09/15,Pedro Martins,Pasta de Alho,3
+240,2023/12/05,Camila Martins,Pipoca de Micro-ondas,3
+241,2023/08/10,João Silva,Alface Crespa,4
+242,2023/01/18,Ana Pereira,Chocolate Amargo,5
+243,2023/04/07,Lucas Lima,Maçã Gala,7
+244,2023/05/12,Rafael Martins,Manteiga sem Sal,5
+245,2023/10/20,José Silva,Peito de Frango,7
+246,2023/09/23,Marcos Pereira,Maçã Gala,6
+247,2023/08/26,Gabriel Oliveira,Pasta de Alho,6
+248,2023/08/28,Fernanda Rodrigues,Sal Marinho,8
+249,2023/03/19,Fernanda Costa,Peito de Frango,6
+250,2023/01/19,Rafael Costa,Salmão Fresco,8
+251,2023/04/26,Rafael Rodrigues,Banana Prata,5
+252,2023/01/20,Beatriz Silva,Manteiga sem Sal,3
+253,2023/03/24,Pedro Almeida,Bolo de Cenoura,4
+254,2023/02/11,Rafael Silva,Atum em Lata,7
+255,2023/03/27,Marcos Martins,Abacate Maduro,2
+256,2023/09/12,Pedro Souza,Mel Puro,3
+257,2023/03/13,Bruno Pereira,Sorvete de Chocolate,2
+258,2023/05/26,Carlos Silva,Leite Desnatado,2
+259,2023/07/22,Luiza Almeida,Refrigerante de Guaraná,1
+260,2023/05/16,Larissa Rodrigues,Cenoura Orgânica,6
+261,2023/06/20,Luiza Rodrigues,Melancia Sem Semente,6
+262,2023/01/24,Fernanda Almeida,Biscoito Integral,3
+263,2023/07/17,Paula Souza,Alface Crespa,6
+264,2023/10/05,Fernanda Gomes,Ovos Orgânicos,1
+265,2023/05/12,José Souza,Refrigerante de Guaraná,5
+266,2023/03/26,João Rodrigues,Molho de Tomate,2
+267,2023/05/11,Luiza Costa,Refrigerante de Guaraná,8
+268,2023/05/02,Beatriz Costa,Atum em Lata,4
+269,2023/08/10,Felipe Almeida,Chocolate Amargo,2
+270,2023/07/03,João Almeida,Café Torrado e Moído,8
+271,2023/01/15,Ana Rodrigues,Farinha de Aveia,4
+272,2023/08/12,Rafael Rodrigues,Castanha do Pará,1
+273,2023/10/29,Lucas Silva,Geleia de Frutas Vermelhas,1
+274,2023/08/27,Pedro Souza,Pasta de Alho,4
+275,2023/09/17,Carlos Rodrigues,Arroz Integral,6
+276,2023/03/06,Luiza Souza,Sorvete de Chocolate,5
+277,2023/03/02,Beatriz Gomes,Sal Marinho,5
+278,2023/08/01,Bruno Costa,Arroz Integral,1
+279,2023/04/02,Ana Gomes,Macarrão Espaguete,6
+280,2023/05/17,Paula Costa,Molho de Tomate,3
+281,2023/09/12,Rafael Souza,Mel Puro,6
+282,2023/01/13,Felipe Costa,Leite Desnatado,4
+283,2023/09/16,José Souza,Farinha de Aveia,8
+284,2023/07/10,Luiza Gomes,Semente de Chia,3
+285,2023/06/25,José Rodrigues,Biscoito Integral,3
+286,2023/10/29,Lucas Costa,Banana Prata,6
+287,2023/07/29,Beatriz Silva,Farinha de Aveia,3
+288,2023/04/16,Felipe Souza,Banana Prata,5
+289,2023/10/27,Bruno Lima,Arroz Integral,6
+290,2023/06/20,Rafael Martins,Bolo de Cenoura,8
+291,2023/01/15,Rafael Lima,Maçã Gala,2
+292,2023/02/15,Lucas Oliveira,Cerveja Artesanal,8
+293,2023/09/30,Paula Almeida,Leite Desnatado,7
+294,2023/11/14,Lucas Lima,Maçã Gala,1
+295,2023/01/16,Rafael Lima,Castanha do Pará,6
+296,2023/04/10,Maria Lima,Barras de Cereal,2
+297,2023/12/17,Carlos Oliveira,Bolo de Cenoura,6
+298,2023/08/15,Lucas Souza,Água de Coco,3
+299,2023/03/27,José Pereira,Azeite de Oliva Extra Virgem,7
+300,2023/12/15,Lucas Rodrigues,Abacate Maduro,8
+301,2023/06/14,Fernanda Almeida,Salmão Fresco,2
+302,2023/02/05,Rafael Costa,Iogurte Natural,5
+303,2023/01/23,Bruno Oliveira,Queijo Minas Frescal,5
+304,2023/01/16,Carlos Almeida,Tomate Italiano,2
+305,2023/07/17,Pedro Pereira,Pão de Forma Integral,4
+306,2023/02/04,Carlos Costa,Geleia de Frutas Vermelhas,1
+307,2023/04/26,Ana Silva,Peito de Frango,1
+308,2023/02/24,Pedro Rodrigues,Pão de Forma Integral,2
+309,2023/05/11,Rafael Gomes,Abacate Maduro,5
+310,2023/08/26,Juliana Souza,Semente de Chia,8
+311,2023/03/16,Fernanda Almeida,Refrigerante de Guaraná,3
+312,2023/03/29,Maria Almeida,Molho de Tomate,5
+313,2023/08/11,Gabriel Rodrigues,Salmão Fresco,2
+314,2023/06/30,Fernanda Pereira,Sal Marinho,5
+315,2023/04/24,Maria Lima,Arroz Integral,6
+316,2023/11/30,João Souza,Café Torrado e Moído,7
+317,2023/12/18,Beatriz Martins,Pão de Queijo Congelado,7
+318,2023/03/28,José Gomes,Água de Coco,3
+319,2023/01/24,Marcos Rodrigues,Chá Verde,3
+320,2023/01/10,Maria Martins,Abacate Maduro,2
+321,2023/11/19,Paula Oliveira,Leite Desnatado,7
+322,2023/05/02,Luiza Oliveira,Biscoito Integral,4
+323,2023/06/03,Marcos Martins,Biscoito Integral,3
+324,2023/01/15,Marcos Oliveira,Refrigerante de Guaraná,4
+325,2023/11/11,Pedro Gomes,Ovos Orgânicos,1
+326,2023/12/28,Beatriz Martins,Peito de Frango,3
+327,2023/09/26,João Souza,Geléia de Morango,8
+328,2023/04/06,Lucas Silva,Pasta de Alho,3
+329,2023/04/24,Lucas Almeida,Pão de Forma Integral,1
+330,2023/02/08,Bruno Martins,Salmão Fresco,6
+331,2023/02/12,João Oliveira,Iogurte Natural,8
+332,2023/03/30,Marcela Martins,Geleia de Frutas Vermelhas,4
+333,2023/09/05,José Costa,Cenoura Orgânica,7
+334,2023/09/20,Felipe Lima,Refrigerante de Guaraná,8
+335,2023/05/11,Ana Almeida,Peito de Frango,8
+336,2023/11/02,Pedro Gomes,Iogurte Natural,5
+337,2023/05/14,Pedro Silva,Peito de Frango,3
+338,2023/07/26,Larissa Martins,Feijão Preto,8
+339,2023/09/02,Marcos Oliveira,Sorvete de Chocolate,4
+340,2023/05/19,Fernanda Rodrigues,Bolo de Cenoura,5
+341,2023/11/04,Maria Souza,Azeite de Oliva Extra Virgem,7
+342,2023/10/07,Larissa Pereira,Castanha do Pará,7
+343,2023/11/03,Larissa Rodrigues,Pipoca de Micro-ondas,1
+344,2023/12/09,João Souza,Azeite de Oliva Extra Virgem,4
+345,2023/06/16,Beatriz Almeida,Melancia Sem Semente,7
+346,2023/12/26,Carlos Gomes,Farinha de Aveia,2
+347,2023/06/15,Maria Gomes,Ovos Orgânicos,8
+348,2023/06/30,Camila Lima,Chocolate Amargo,5
+349,2023/07/04,Ana Silva,Pão de Queijo Congelado,4
+350,2023/06/05,Marcos Costa,Maçã Gala,3
+351,2023/10/03,Beatriz Rodrigues,Semente de Chia,2
+352,2023/06/26,Carlos Gomes,Pimenta do Reino,8
+353,2023/02/20,Bruno Martins,Azeite de Oliva Extra Virgem,4
+354,2023/07/20,Rafael Souza,Café Torrado e Moído,8
+355,2023/02/07,Marcela Gomes,Pêssego em Calda,1
+356,2023/12/04,Marcela Lima,Geléia de Morango,3
+357,2023/06/28,Paula Lima,Suco de Laranja Natural,1
+358,2023/07/09,Carlos Martins,Creme de Leite,6
+359,2023/09/16,Fernanda Souza,Molho de Tomate,1
+360,2023/06/29,Ana Martins,Sal Marinho,8
+361,2023/04/28,Carlos Souza,Salmão Fresco,4
+362,2023/04/15,Marcos Almeida,Arroz Integral,5
+363,2023/08/02,Carlos Silva,Pimenta do Reino,4
+364,2023/03/30,Bruno Oliveira,Pão de Queijo Congelado,3
+365,2023/03/12,Felipe Silva,Pasta de Amendoim,3
+366,2023/12/28,Ana Gomes,Cerveja Artesanal,8
+367,2023/12/14,Felipe Pereira,Cenoura Orgânica,8
+368,2023/11/19,Larissa Gomes,Atum em Lata,8
+369,2023/08/22,Bruno Oliveira,Arroz Integral,5
+370,2023/06/16,Pedro Oliveira,Pêssego em Calda,3
+371,2023/05/19,Felipe Oliveira,Salmão Fresco,6
+372,2023/07/12,Rafael Souza,Azeitonas Verdes,6
+373,2023/07/23,Gabriel Silva,Batata Doce,2
+374,2023/07/15,Bruno Lima,Iogurte Natural,8
+375,2023/03/21,Marcela Oliveira,Azeite de Oliva Extra Virgem,3
+376,2023/04/26,Bruno Pereira,Ovos Orgânicos,4
+377,2023/09/20,Fernanda Silva,Chocolate Amargo,4
+378,2023/08/31,João Almeida,Pão de Queijo Congelado,4
+379,2023/11/03,Ana Pereira,Mel Puro,2
+380,2023/08/26,Rafael Rodrigues,Granola,8
+381,2023/10/29,Ana Lima,Salmão Fresco,4
+382,2023/05/26,Paula Souza,Maçã Gala,8
+383,2023/06/11,Pedro Costa,Pipoca de Micro-ondas,5
+384,2023/01/11,Larissa Pereira,Castanha do Pará,1
+385,2023/11/05,Pedro Almeida,Iogurte Natural,3
+386,2023/06/01,Felipe Rodrigues,Granola,5
+387,2023/01/09,Camila Martins,Abacate Maduro,4
+388,2023/06/05,Fernanda Gomes,Granola,6
+389,2023/09/19,José Gomes,Salmão Fresco,7
+390,2023/01/13,Lucas Souza,Arroz Integral,7
+391,2023/06/10,Lucas Costa,Cenoura Orgânica,2
+392,2023/05/14,Marcela Oliveira,Água de Coco,3
+393,2023/05/17,Felipe Oliveira,Água de Coco,8
+394,2023/11/25,Felipe Costa,Refrigerante de Guaraná,1
+395,2023/03/11,Carlos Rodrigues,Biscoito Integral,4
+396,2023/02/17,Camila Almeida,Chá Verde,6
+397,2023/11/02,Larissa Gomes,Batata Doce,1
+398,2023/01/17,Felipe Rodrigues,Batata Doce,6
+399,2023/01/12,João Oliveira,Café Torrado e Moído,3
+400,2023/03/19,João Pereira,Ovos Orgânicos,5
+401,2023/08/12,Marcela Gomes,Castanha do Pará,6
+402,2023/12/14,Juliana Souza,Cerveja Artesanal,3
+403,2023/11/26,Camila Lima,Feijão Preto,5
+404,2023/08/08,Ana Martins,Refrigerante de Guaraná,1
+405,2023/12/16,Pedro Oliveira,Azeitonas Verdes,2
+406,2023/08/11,Beatriz Oliveira,Sal Marinho,1
+407,2023/11/14,João Souza,Azeite de Oliva Extra Virgem,7
+408,2023/04/14,João Lima,Sorvete de Chocolate,2
+409,2023/06/26,Larissa Rodrigues,Chocolate Amargo,3
+410,2023/06/26,Lucas Martins,Queijo Minas Frescal,4
+411,2023/08/17,Larissa Silva,Pão de Queijo Congelado,3
+412,2023/11/17,Larissa Almeida,Manteiga sem Sal,1
+413,2023/08/10,Pedro Almeida,Melancia Sem Semente,2
+414,2023/02/06,Marcos Pereira,Azeite de Oliva Extra Virgem,7
+415,2023/11/24,Gabriel Gomes,Pipoca de Micro-ondas,4
+416,2023/02/02,Larissa Oliveira,Azeite de Oliva Extra Virgem,6
+417,2023/12/28,Camila Costa,Pêssego em Calda,8
+418,2023/04/07,Lucas Pereira,Azeite de Oliva Extra Virgem,5
+419,2023/03/04,Gabriel Costa,Tomate Italiano,7
+420,2023/03/13,Gabriel Oliveira,Pipoca de Micro-ondas,7
+421,2023/07/29,Beatriz Gomes,Geleia de Frutas Vermelhas,7
+422,2023/01/14,Gabriel Pereira,Alface Crespa,2
+423,2023/06/07,Lucas Rodrigues,Feijão Preto,6
+424,2023/11/26,Gabriel Costa,Pêssego em Calda,6
+425,2023/09/17,José Costa,Café Torrado e Moído,1
+426,2023/09/24,Camila Gomes,Manteiga sem Sal,8
+427,2023/12/27,Camila Lima,Biscoito Integral,6
+428,2023/05/31,Carlos Souza,Melancia Sem Semente,7
+429,2023/08/16,Camila Lima,Sal Marinho,2
+430,2023/07/01,Paula Almeida,Azeitonas Verdes,5
+431,2023/10/21,Marcos Pereira,Tomate Italiano,5
+432,2023/12/27,Paula Oliveira,Arroz Integral,1
+433,2023/08/29,Marcos Costa,Suco de Laranja Natural,8
+434,2023/04/17,Gabriel Souza,Atum em Lata,2
+435,2023/05/06,Marcela Pereira,Pimenta do Reino,6
+436,2023/02/26,Luiza Oliveira,Chá Verde,2
+437,2023/05/18,Lucas Costa,Maçã Gala,7
+438,2023/05/30,Carlos Silva,Cenoura Orgânica,5
+439,2023/05/14,Paula Pereira,Peito de Frango,1
+440,2023/09/04,Marcos Silva,Barras de Cereal,3
+441,2023/05/15,Lucas Gomes,Pão de Queijo Congelado,2
+442,2023/01/14,José Gomes,Semente de Chia,1
+443,2023/12/03,Bruno Lima,Atum em Lata,5
+444,2023/03/02,Beatriz Pereira,Água de Coco,3
+445,2023/03/27,Ana Rodrigues,Pasta de Amendoim,5
+446,2023/11/19,José Almeida,Queijo Minas Frescal,5
+447,2023/11/29,Maria Lima,Atum em Lata,3
+448,2023/11/25,Larissa Oliveira,Ovos Orgânicos,6
+449,2023/09/06,José Martins,Pão de Queijo Congelado,3
+450,2023/12/13,Bruno Souza,Pipoca de Micro-ondas,2
+451,2023/08/27,Juliana Silva,Pão de Forma Integral,5
+452,2023/02/10,Marcela Lima,Creme de Leite,6
+453,2023/01/29,Pedro Rodrigues,Pão de Queijo Congelado,6
+454,2023/09/17,Lucas Almeida,Suco de Laranja Natural,7
+455,2023/12/01,Beatriz Lima,Bolo de Cenoura,6
+456,2023/10/15,João Silva,Peito de Frango,7
+457,2023/12/25,Luiza Costa,Geleia de Frutas Vermelhas,3
+458,2023/08/25,Maria Silva,Pêssego em Calda,5
+459,2023/03/31,Marcos Lima,Manteiga sem Sal,5
+460,2023/06/19,Marcos Martins,Ovos Orgânicos,8
+461,2023/01/11,Ana Silva,Ovos Orgânicos,8
+462,2023/03/11,Camila Souza,Azeitonas Verdes,7
+463,2023/09/07,Marcela Souza,Barras de Cereal,6
+464,2023/04/14,Camila Gomes,Barras de Cereal,3
+465,2023/06/07,Juliana Almeida,Iogurte Natural,8
+466,2023/05/10,Larissa Gomes,Refrigerante de Guaraná,3
+467,2023/11/20,João Lima,Azeite de Oliva Extra Virgem,1
+468,2023/07/04,Pedro Almeida,Suco de Laranja Natural,7
+469,2023/03/26,Maria Oliveira,Bolo de Cenoura,3
+470,2023/06/23,Maria Pereira,Castanha do Pará,2
+471,2023/03/16,Ana Rodrigues,Suco de Laranja Natural,4
+472,2023/03/13,Fernanda Gomes,Molho de Tomate,4
+473,2023/11/02,Larissa Lima,Salmão Fresco,6
+474,2023/07/30,Carlos Martins,Pimenta do Reino,4
+475,2023/05/15,Fernanda Lima,Banana Prata,4
+476,2023/04/30,Felipe Almeida,Atum em Lata,1
+477,2023/08/03,Luiza Souza,Tomate Italiano,3
+478,2023/02/26,Juliana Gomes,Pipoca de Micro-ondas,5
+479,2023/09/14,Fernanda Gomes,Arroz Integral,7
+480,2023/11/12,Beatriz Souza,Café Torrado e Moído,2
+481,2023/02/24,João Pereira,Salmão Fresco,1
+482,2023/08/20,Camila Oliveira,Mel Puro,6
+483,2023/02/24,Felipe Oliveira,Refrigerante de Guaraná,4
+484,2023/12/01,Larissa Souza,Tomate Italiano,8
+485,2023/01/17,José Pereira,Cerveja Artesanal,2
+486,2023/06/10,Lucas Pereira,Mel Puro,3
+487,2023/09/24,Gabriel Gomes,Sal Marinho,8
+488,2023/04/24,Larissa Souza,Mel Puro,8
+489,2023/09/04,Marcela Lima,Café Torrado e Moído,2
+490,2023/09/12,Luiza Oliveira,Biscoito Integral,3
+491,2023/11/14,Beatriz Lima,Mel Puro,1
+492,2023/05/15,Rafael Costa,Ovos Orgânicos,6
+493,2023/04/17,Felipe Gomes,Sal Marinho,4
+494,2023/06/04,João Pereira,Cenoura Orgânica,4
+495,2023/11/13,José Pereira,Café Torrado e Moído,7
+496,2023/03/08,Fernanda Pereira,Cenoura Orgânica,1
+497,2023/04/28,Marcos Souza,Bolo de Cenoura,7
+498,2023/07/24,Bruno Lima,Melancia Sem Semente,5
+499,2023/11/15,Larissa Silva,Alface Crespa,2
+500,2023/02/28,Felipe Almeida,Batata Doce,4
+501,2023/09/24,Carlos Lima,Atum em Lata,8
+502,2023/11/06,Juliana Silva,Barras de Cereal,1
+503,2023/11/06,Carlos Almeida,Macarrão Espaguete,2
+504,2023/04/15,Lucas Oliveira,Bolo de Cenoura,7
+505,2023/01/22,Camila Gomes,Tomate Italiano,2
+506,2023/07/27,Marcos Silva,Chocolate Amargo,3
+507,2023/03/20,Fernanda Costa,Café Torrado e Moído,2
+508,2023/04/16,João Costa,Água de Coco,8
+509,2023/01/15,Carlos Rodrigues,Cenoura Orgânica,1
+510,2023/02/09,Beatriz Rodrigues,Pão de Queijo Congelado,4
+511,2023/11/28,José Pereira,Chá Verde,1
+512,2023/01/22,Marcos Gomes,Castanha do Pará,5
+513,2023/07/19,Gabriel Pereira,Mel Puro,2
+514,2023/08/29,João Costa,Farinha de Aveia,1
+515,2023/10/27,Larissa Almeida,Alface Crespa,6
+516,2023/07/21,Fernanda Gomes,Abacate Maduro,6
+517,2023/09/07,Pedro Gomes,Batata Doce,7
+518,2023/04/30,Camila Lima,Pasta de Amendoim,2
+519,2023/04/26,Paula Pereira,Macarrão Espaguete,7
+520,2023/08/15,Gabriel Souza,Mel Puro,7
+521,2023/05/18,Paula Rodrigues,Atum em Lata,3
+522,2023/07/28,Paula Pereira,Abacate Maduro,1
+523,2023/02/25,Luiza Gomes,Feijão Preto,5
+524,2023/05/16,Rafael Almeida,Peito de Frango,4
+525,2023/02/09,Luiza Pereira,Cerveja Artesanal,6
+526,2023/04/01,Fernanda Costa,Sal Marinho,4
+527,2023/07/02,Marcela Martins,Geleia de Frutas Vermelhas,8
+528,2023/01/01,Bruno Costa,Maçã Gala,6
+529,2023/10/20,Felipe Almeida,Pão de Forma Integral,8
+530,2023/10/11,Ana Oliveira,Farinha de Aveia,7
+531,2023/12/31,Gabriel Martins,Cenoura Orgânica,4
+532,2023/04/22,Carlos Costa,Geléia de Morango,7
+533,2023/04/08,Camila Rodrigues,Pasta de Amendoim,4
+534,2023/11/09,Marcos Lima,Azeitonas Verdes,4
+535,2023/06/13,Maria Almeida,Feijão Preto,3
+536,2023/09/22,Fernanda Oliveira,Chocolate Amargo,5
+537,2023/12/20,Rafael Silva,Biscoito Integral,2
+538,2023/09/04,Juliana Oliveira,Salmão Fresco,4
+539,2023/02/11,Marcela Costa,Barras de Cereal,3
+540,2023/07/17,João Lima,Suco de Laranja Natural,5
+541,2023/07/17,José Almeida,Sorvete de Chocolate,8
+542,2023/10/05,Beatriz Gomes,Molho de Tomate,1
+543,2023/06/02,Fernanda Pereira,Batata Doce,3
+544,2023/02/25,Camila Gomes,Pimenta do Reino,2
+545,2023/08/30,Bruno Almeida,Atum em Lata,3
+546,2023/12/12,Paula Pereira,Mel Puro,2
+547,2023/02/18,Fernanda Almeida,Peito de Frango,3
+548,2023/01/03,Paula Rodrigues,Melancia Sem Semente,7
+549,2023/10/01,João Souza,Batata Doce,1
+550,2023/06/08,Carlos Rodrigues,Manteiga sem Sal,6
+551,2023/08/12,João Pereira,Café Torrado e Moído,2
+552,2023/08/31,Felipe Rodrigues,Ovos Orgânicos,4
+553,2023/02/13,Gabriel Gomes,Leite Desnatado,4
+554,2023/05/06,Juliana Almeida,Feijão Preto,3
+555,2023/01/18,Rafael Oliveira,Pasta de Alho,1
+556,2023/04/15,Bruno Costa,Salmão Fresco,8
+557,2023/01/15,Bruno Costa,Molho de Tomate,5
+558,2023/05/23,Bruno Martins,Castanha do Pará,3
+559,2023/07/23,João Rodrigues,Granola,4
+560,2023/04/08,João Martins,Tomate Italiano,8
+561,2023/01/11,Camila Lima,Geleia de Frutas Vermelhas,3
+562,2023/10/11,Rafael Rodrigues,Pasta de Amendoim,2
+563,2023/11/14,Lucas Silva,Semente de Chia,2
+564,2023/12/28,Gabriel Silva,Pipoca de Micro-ondas,1
+565,2023/05/29,Pedro Martins,Abacate Maduro,8
+566,2023/03/15,Paula Almeida,Azeitonas Verdes,5
+567,2023/10/13,Bruno Oliveira,Iogurte Natural,1
+568,2023/11/23,Marcos Almeida,Alface Crespa,7
+569,2023/02/06,João Lima,Chocolate Amargo,8
+570,2023/07/01,Beatriz Souza,Pasta de Alho,2
+571,2023/12/04,Marcos Costa,Barras de Cereal,2
+572,2023/11/25,Lucas Martins,Peito de Frango,3
+573,2023/06/11,Carlos Costa,Sorvete de Chocolate,1
+574,2023/07/06,Marcos Gomes,Alface Crespa,1
+575,2023/05/06,Carlos Lima,Café Torrado e Moído,7
+576,2023/02/24,Camila Pereira,Pasta de Amendoim,3
+577,2023/11/03,Paula Pereira,Azeite de Oliva Extra Virgem,5
+578,2023/08/26,Luiza Gomes,Semente de Chia,3
+579,2023/12/24,Ana Gomes,Pão de Queijo Congelado,5
+580,2023/06/04,Gabriel Souza,Cerveja Artesanal,2
+581,2023/07/22,Fernanda Silva,Maçã Gala,6
+582,2023/10/23,Juliana Rodrigues,Geleia de Frutas Vermelhas,7
+583,2023/01/27,Carlos Gomes,Abacate Maduro,2
+584,2023/04/05,Juliana Martins,Água de Coco,2
+585,2023/06/08,Felipe Costa,Maçã Gala,8
+586,2023/03/18,Marcos Almeida,Azeitonas Verdes,5
+587,2023/12/19,Fernanda Martins,Azeite de Oliva Extra Virgem,5
+588,2023/07/18,Rafael Martins,Pipoca de Micro-ondas,5
+589,2023/05/03,Luiza Silva,Semente de Chia,3
+590,2023/11/25,Rafael Almeida,Leite Desnatado,7
+591,2023/08/24,Larissa Martins,Mel Puro,1
+592,2023/01/24,Fernanda Almeida,Café Torrado e Moído,5
+593,2023/12/12,Bruno Almeida,Molho de Tomate,8
+594,2023/04/30,Pedro Lima,Granola,1
+595,2023/02/19,Marcela Oliveira,Maçã Gala,1
+596,2023/09/29,Marcos Rodrigues,Iogurte Natural,1
+597,2023/10/26,Paula Oliveira,Suco de Laranja Natural,4
+598,2023/03/03,Carlos Silva,Arroz Integral,5
+599,2023/03/29,Camila Pereira,Azeite de Oliva Extra Virgem,1
+600,2023/04/15,Paula Gomes,Molho de Tomate,6
+601,2023/12/08,Carlos Martins,Iogurte Natural,8
+602,2023/05/09,Maria Martins,Biscoito Integral,8
+603,2023/08/27,Luiza Gomes,Tomate Italiano,1
+604,2023/11/08,João Pereira,Semente de Chia,2
+605,2023/07/11,Beatriz Martins,Manteiga sem Sal,4
+606,2023/09/13,Rafael Gomes,Atum em Lata,6
+607,2023/09/24,Rafael Pereira,Cenoura Orgânica,3
+608,2023/06/26,Marcos Oliveira,Pêssego em Calda,6
+609,2023/05/16,Maria Martins,Farinha de Aveia,7
+610,2023/12/17,Carlos Martins,Geleia de Frutas Vermelhas,8
+611,2023/09/03,Luiza Souza,Azeitonas Verdes,8
+612,2023/06/22,José Pereira,Iogurte Natural,6
+613,2023/11/04,Marcela Lima,Azeitonas Verdes,1
+614,2023/08/31,Fernanda Oliveira,Sal Marinho,1
+615,2023/12/01,Marcela Almeida,Chocolate Amargo,3
+616,2023/04/10,Maria Pereira,Ovos Orgânicos,1
+617,2023/08/30,Luiza Silva,Queijo Minas Frescal,4
+618,2023/12/05,Luiza Pereira,Geleia de Frutas Vermelhas,5
+619,2023/05/15,Lucas Costa,Sal Marinho,2
+620,2023/10/20,Bruno Costa,Macarrão Espaguete,6
+621,2023/10/18,Paula Oliveira,Geléia de Morango,3
+622,2023/02/13,Larissa Oliveira,Melancia Sem Semente,5
+623,2023/08/31,Ana Lima,Pão de Forma Integral,8
+624,2023/01/17,Camila Silva,Abacate Maduro,8
+625,2023/01/17,Fernanda Martins,Iogurte Natural,2
+626,2023/09/02,Rafael Souza,Feijão Preto,4
+627,2023/07/17,Marcela Martins,Pêssego em Calda,7
+628,2023/09/21,Camila Costa,Chá Verde,3
+629,2023/11/23,Rafael Martins,Cerveja Artesanal,5
+630,2023/07/03,Maria Rodrigues,Bolo de Cenoura,6
+631,2023/10/23,José Almeida,Semente de Chia,2
+632,2023/05/15,Bruno Silva,Cerveja Artesanal,8
+633,2023/01/02,Beatriz Souza,Melancia Sem Semente,1
+634,2023/06/13,Rafael Gomes,Pimenta do Reino,5
+635,2023/01/28,Pedro Lima,Manteiga sem Sal,1
+636,2023/08/19,Camila Pereira,Leite Desnatado,6
+637,2023/07/26,Larissa Almeida,Peito de Frango,5
+638,2023/07/03,Beatriz Gomes,Pão de Forma Integral,3
+639,2023/09/05,Gabriel Lima,Café Torrado e Moído,3
+640,2023/11/07,Paula Oliveira,Manteiga sem Sal,7
+641,2023/09/14,Pedro Martins,Geléia de Morango,7
+642,2023/01/02,Camila Lima,Azeite de Oliva Extra Virgem,6
+643,2023/07/21,Felipe Lima,Feijão Preto,4
+644,2023/07/19,José Pereira,Abacate Maduro,6
+645,2023/08/09,Felipe Souza,Pão de Forma Integral,5
+646,2023/02/09,Larissa Pereira,Suco de Laranja Natural,3
+647,2023/03/21,Lucas Martins,Chá Verde,3
+648,2023/06/24,Lucas Silva,Bolo de Cenoura,3
+649,2023/02/10,Luiza Gomes,Manteiga sem Sal,7
+650,2023/12/23,Marcela Pereira,Chocolate Amargo,3
+651,2023/07/11,Camila Costa,Suco de Laranja Natural,4
+652,2023/07/27,Rafael Martins,Macarrão Espaguete,8
+653,2023/01/09,Bruno Souza,Pão de Forma Integral,2
+654,2023/12/13,Fernanda Pereira,Abacate Maduro,3
+655,2023/03/07,Maria Costa,Pimenta do Reino,6
+656,2023/07/10,Pedro Lima,Alface Crespa,6
+657,2023/03/08,Ana Costa,Leite Desnatado,5
+658,2023/09/07,Camila Silva,Ovos Orgânicos,4
+659,2023/11/29,Marcela Souza,Água de Coco,5
+660,2023/06/02,Marcela Pereira,Pipoca de Micro-ondas,3
+661,2023/08/10,Bruno Souza,Sorvete de Chocolate,1
+662,2023/01/14,Ana Lima,Macarrão Espaguete,4
+663,2023/07/21,Bruno Almeida,Creme de Leite,5
+664,2023/06/25,Pedro Martins,Batata Doce,7
+665,2023/10/09,João Pereira,Salmão Fresco,6
+666,2023/02/19,Luiza Gomes,Suco de Laranja Natural,2
+667,2023/07/30,Camila Costa,Chocolate Amargo,6
+668,2023/09/27,Marcos Gomes,Alface Crespa,7
+669,2023/11/03,Bruno Oliveira,Barras de Cereal,6
+670,2023/07/12,Felipe Gomes,Iogurte Natural,2
+671,2023/02/01,Felipe Souza,Tomate Italiano,5
+672,2023/08/30,Luiza Oliveira,Geleia de Frutas Vermelhas,3
+673,2023/11/12,Carlos Lima,Bolo de Cenoura,6
+674,2023/03/01,José Souza,Pipoca de Micro-ondas,8
+675,2023/12/30,Larissa Martins,Batata Doce,4
+676,2023/05/27,Pedro Lima,Sal Marinho,7
+677,2023/10/31,Carlos Rodrigues,Água de Coco,7
+678,2023/06/25,Bruno Gomes,Chocolate Amargo,3
+679,2023/05/15,Pedro Almeida,Água de Coco,5
+680,2023/05/08,Lucas Pereira,Batata Doce,2
+681,2023/09/25,Ana Lima,Macarrão Espaguete,3
+682,2023/09/23,Maria Rodrigues,Cenoura Orgânica,5
+683,2023/02/26,Marcos Costa,Geléia de Morango,2
+684,2023/07/07,Camila Costa,Arroz Integral,2
+685,2023/11/19,Larissa Pereira,Pimenta do Reino,7
+686,2023/07/26,Beatriz Lima,Azeite de Oliva Extra Virgem,1
+687,2023/08/23,Rafael Lima,Peito de Frango,1
+688,2023/02/09,Paula Oliveira,Batata Doce,5
+689,2023/10/22,José Almeida,Pasta de Alho,7
+690,2023/05/04,Lucas Lima,Café Torrado e Moído,1
+691,2023/04/10,Pedro Costa,Atum em Lata,4
+692,2023/09/10,Luiza Costa,Bolo de Cenoura,7
+693,2023/05/08,Camila Martins,Semente de Chia,8
+694,2023/06/10,Ana Souza,Café Torrado e Moído,5
+695,2023/08/04,Gabriel Lima,Bolo de Cenoura,8
+696,2023/03/29,Gabriel Pereira,Mel Puro,7
+697,2023/08/25,Fernanda Oliveira,Pão de Queijo Congelado,8
+698,2023/05/11,Luiza Souza,Geleia de Frutas Vermelhas,1
+699,2023/02/01,Ana Lima,Maçã Gala,1
+700,2023/06/18,Fernanda Rodrigues,Cenoura Orgânica,1
+701,2023/02/20,Felipe Souza,Suco de Laranja Natural,7
+702,2023/04/20,Marcela Costa,Molho de Tomate,2
+703,2023/04/17,Felipe Silva,Cenoura Orgânica,1
+704,2023/09/26,José Gomes,Geleia de Frutas Vermelhas,8
+705,2023/12/01,José Souza,Leite Desnatado,7
+706,2023/10/01,Marcela Martins,Barras de Cereal,4
+707,2023/04/16,Felipe Rodrigues,Pasta de Amendoim,3
+708,2023/04/09,João Martins,Iogurte Natural,8
+709,2023/06/23,Juliana Rodrigues,Sal Marinho,5
+710,2023/02/15,Larissa Gomes,Sal Marinho,4
+711,2023/04/15,Marcos Silva,Alface Crespa,6
+712,2023/10/31,José Silva,Granola,6
+713,2023/10/07,Juliana Martins,Refrigerante de Guaraná,3
+714,2023/12/12,Juliana Rodrigues,Pimenta do Reino,2
+715,2023/07/24,Felipe Lima,Ovos Orgânicos,2
+716,2023/04/30,José Silva,Chocolate Amargo,7
+717,2023/03/25,Pedro Rodrigues,Farinha de Aveia,6
+718,2023/12/13,Bruno Rodrigues,Granola,7
+719,2023/08/25,Paula Costa,Tomate Italiano,7
+720,2023/06/01,Ana Oliveira,Peito de Frango,4
+721,2023/11/05,Felipe Martins,Ovos Orgânicos,3
+722,2023/05/08,Rafael Pereira,Sal Marinho,8
+723,2023/04/28,Ana Almeida,Café Torrado e Moído,4
+724,2023/07/19,Marcela Almeida,Ovos Orgânicos,5
+725,2023/12/06,Bruno Silva,Pão de Forma Integral,8
+726,2023/05/08,Juliana Souza,Chocolate Amargo,1
+727,2023/04/05,Marcela Souza,Pimenta do Reino,7
+728,2023/11/23,Gabriel Gomes,Melancia Sem Semente,7
+729,2023/12/14,Gabriel Almeida,Pimenta do Reino,2
+730,2023/06/28,José Rodrigues,Semente de Chia,3
+731,2023/09/30,Paula Martins,Iogurte Natural,6
+732,2023/06/10,Marcos Rodrigues,Pipoca de Micro-ondas,8
+733,2023/07/27,Rafael Costa,Abacate Maduro,4
+734,2023/11/16,Felipe Pereira,Tomate Italiano,2
+735,2023/09/26,Beatriz Lima,Pasta de Alho,3
+736,2023/09/20,Gabriel Lima,Alface Crespa,6
+737,2023/05/14,João Almeida,Água de Coco,1
+738,2023/12/21,Carlos Costa,Água de Coco,2
+739,2023/10/24,Rafael Lima,Arroz Integral,4
+740,2023/08/29,Camila Souza,Atum em Lata,3
+741,2023/02/10,Camila Costa,Suco de Laranja Natural,4
+742,2023/09/06,Gabriel Silva,Pasta de Amendoim,8
+743,2023/01/27,Beatriz Costa,Geleia de Frutas Vermelhas,3
+744,2023/08/08,Felipe Pereira,Café Torrado e Moído,6
+745,2023/06/25,Pedro Costa,Pipoca de Micro-ondas,4
+746,2023/07/17,Carlos Pereira,Banana Prata,6
+747,2023/03/03,Lucas Gomes,Geléia de Morango,3
+748,2023/03/19,Fernanda Rodrigues,Azeite de Oliva Extra Virgem,7
+749,2023/08/02,Beatriz Pereira,Batata Doce,8
+750,2023/05/09,José Almeida,Biscoito Integral,3
+751,2023/11/01,Maria Rodrigues,Tomate Italiano,5
+752,2023/07/03,Camila Gomes,Farinha de Aveia,3
+753,2023/04/14,Felipe Rodrigues,Farinha de Aveia,4
+754,2023/11/28,Bruno Gomes,Cerveja Artesanal,5
+755,2023/11/13,Juliana Oliveira,Sorvete de Chocolate,8
+756,2023/01/31,Marcos Oliveira,Azeitonas Verdes,7
+757,2023/08/19,Camila Rodrigues,Pipoca de Micro-ondas,6
+758,2023/07/12,Marcos Gomes,Geleia de Frutas Vermelhas,3
+759,2023/08/18,Lucas Pereira,Pasta de Amendoim,8
+760,2023/05/15,Rafael Rodrigues,Melancia Sem Semente,7
+761,2023/06/19,Maria Costa,Geleia de Frutas Vermelhas,5
+762,2023/10/04,Felipe Lima,Banana Prata,1
+763,2023/01/31,Gabriel Costa,Iogurte Natural,1
+764,2023/08/26,Beatriz Silva,Semente de Chia,1
+765,2023/09/05,José Gomes,Pêssego em Calda,2
+766,2023/03/30,Ana Souza,Azeitonas Verdes,8
+767,2023/10/26,Paula Costa,Água de Coco,1
+768,2023/03/15,Paula Silva,Pasta de Amendoim,7
+769,2023/01/10,Bruno Martins,Pêssego em Calda,7
+770,2023/04/23,Fernanda Almeida,Azeitonas Verdes,1
+771,2023/11/01,Juliana Pereira,Sal Marinho,8
+772,2023/03/22,Bruno Rodrigues,Queijo Minas Frescal,5
+773,2023/06/21,Larissa Almeida,Pipoca de Micro-ondas,5
+774,2023/06/26,Marcela Pereira,Pasta de Amendoim,2
+775,2023/02/22,Ana Almeida,Azeite de Oliva Extra Virgem,8
+776,2023/09/30,Ana Oliveira,Melancia Sem Semente,6
+777,2023/11/10,Bruno Silva,Biscoito Integral,3
+778,2023/06/28,Gabriel Rodrigues,Café Torrado e Moído,6
+779,2023/08/10,João Martins,Molho de Tomate,3
+780,2023/09/28,Larissa Lima,Sal Marinho,8
+781,2023/08/23,Luiza Gomes,Manteiga sem Sal,4
+782,2023/09/16,Rafael Martins,Cerveja Artesanal,6
+783,2023/09/01,Maria Gomes,Farinha de Aveia,8
+784,2023/12/29,José Costa,Suco de Laranja Natural,4
+785,2023/01/04,Beatriz Almeida,Molho de Tomate,2
+786,2023/01/29,Bruno Martins,Semente de Chia,2
+787,2023/10/25,Carlos Oliveira,Chá Verde,4
+788,2023/03/23,Fernanda Pereira,Leite Desnatado,7
+789,2023/02/25,Lucas Costa,Cerveja Artesanal,1
+790,2023/08/15,Maria Almeida,Mel Puro,4
+791,2023/09/15,José Costa,Geléia de Morango,4
+792,2023/02/08,Beatriz Martins,Biscoito Integral,5
+793,2023/11/10,Gabriel Costa,Café Torrado e Moído,7
+794,2023/03/24,Lucas Costa,Leite Desnatado,4
+795,2023/05/17,João Silva,Chocolate Amargo,6
+796,2023/10/18,Fernanda Almeida,Granola,7
+797,2023/07/25,Camila Pereira,Arroz Integral,8
+798,2023/10/17,João Souza,Salmão Fresco,1
+799,2023/06/09,Bruno Costa,Macarrão Espaguete,1
+800,2023/11/09,Paula Martins,Barras de Cereal,5
+801,2023/09/13,Rafael Pereira,Semente de Chia,8
+802,2023/07/26,Carlos Pereira,Pasta de Alho,2
+803,2023/06/13,José Costa,Chocolate Amargo,6
+804,2023/01/15,Gabriel Rodrigues,Geléia de Morango,4
+805,2023/04/06,Bruno Souza,Peito de Frango,3
+806,2023/06/01,Maria Lima,Iogurte Natural,3
+807,2023/10/25,Marcela Rodrigues,Pipoca de Micro-ondas,3
+808,2023/05/29,Pedro Oliveira,Creme de Leite,1
+809,2023/09/19,Marcela Pereira,Arroz Integral,2
+810,2023/11/05,Lucas Rodrigues,Biscoito Integral,2
+811,2023/11/10,Beatriz Silva,Peito de Frango,7
+812,2023/10/19,Fernanda Lima,Azeite de Oliva Extra Virgem,7
+813,2023/10/14,Carlos Souza,Cerveja Artesanal,5
+814,2023/09/12,Felipe Oliveira,Pão de Forma Integral,6
+815,2023/09/30,Juliana Gomes,Pão de Queijo Congelado,5
+816,2023/01/14,Larissa Martins,Bolo de Cenoura,7
+817,2023/01/01,Beatriz Martins,Pipoca de Micro-ondas,4
+818,2023/10/22,José Martins,Pimenta do Reino,6
+819,2023/05/14,Fernanda Souza,Geléia de Morango,4
+820,2023/10/26,Fernanda Almeida,Cenoura Orgânica,3
+821,2023/08/30,Marcela Martins,Creme de Leite,4
+822,2023/11/24,Rafael Pereira,Barras de Cereal,6
+823,2023/06/23,Marcela Rodrigues,Salmão Fresco,7
+824,2023/06/05,Rafael Silva,Peito de Frango,6
+825,2023/06/19,Beatriz Martins,Batata Doce,5
+826,2023/04/20,Bruno Costa,Azeitonas Verdes,5
+827,2023/03/11,Larissa Almeida,Farinha de Aveia,4
+828,2023/07/31,Gabriel Oliveira,Molho de Tomate,2
+829,2023/02/16,Marcos Silva,Atum em Lata,7
+830,2023/02/24,Luiza Silva,Refrigerante de Guaraná,6
+831,2023/05/10,Gabriel Costa,Macarrão Espaguete,7
+832,2023/04/19,Rafael Costa,Pão de Queijo Congelado,3
+833,2023/02/03,Beatriz Lima,Manteiga sem Sal,5
+834,2023/11/27,Ana Gomes,Biscoito Integral,5
+835,2023/02/17,Gabriel Souza,Creme de Leite,7
+836,2023/07/08,Felipe Pereira,Chá Verde,5
+837,2023/04/26,Pedro Oliveira,Ovos Orgânicos,3
+838,2023/12/21,Rafael Gomes,Queijo Minas Frescal,2
+839,2023/10/22,Felipe Lima,Semente de Chia,6
+840,2023/11/20,Felipe Martins,Pão de Forma Integral,8
+841,2023/01/18,Bruno Pereira,Maçã Gala,1
+842,2023/11/28,Felipe Costa,Chá Verde,4
+843,2023/02/27,Marcos Gomes,Água de Coco,5
+844,2023/11/29,Gabriel Silva,Manteiga sem Sal,5
+845,2023/03/14,Marcos Rodrigues,Água de Coco,7
+846,2023/12/31,Pedro Rodrigues,Granola,7
+847,2023/03/03,Bruno Oliveira,Sorvete de Chocolate,3
+848,2023/02/27,Juliana Silva,Banana Prata,5
+849,2023/06/11,Camila Martins,Barras de Cereal,6
+850,2023/02/20,Bruno Lima,Banana Prata,6
+851,2023/01/08,Camila Almeida,Azeitonas Verdes,4
+852,2023/09/06,Camila Lima,Cenoura Orgânica,6
+853,2023/04/09,Maria Rodrigues,Tomate Italiano,5
+854,2023/06/21,José Pereira,Refrigerante de Guaraná,5
+855,2023/05/20,Juliana Pereira,Farinha de Aveia,4
+856,2023/09/29,Ana Rodrigues,Tomate Italiano,3
+857,2023/05/22,Ana Rodrigues,Tomate Italiano,6
+858,2023/06/01,Beatriz Oliveira,Pimenta do Reino,2
+859,2023/07/11,Ana Rodrigues,Pimenta do Reino,3
+860,2023/09/19,Camila Lima,Abacate Maduro,7
+861,2023/06/08,Marcos Almeida,Feijão Preto,4
+862,2023/07/16,Pedro Lima,Batata Doce,7
+863,2023/02/14,José Pereira,Pão de Queijo Congelado,1
+864,2023/05/29,José Silva,Sal Marinho,1
+865,2023/01/04,Rafael Almeida,Pasta de Alho,3
+866,2023/02/09,Beatriz Souza,Sorvete de Chocolate,7
+867,2023/05/12,Beatriz Oliveira,Macarrão Espaguete,5
+868,2023/07/12,Camila Pereira,Semente de Chia,3
+869,2023/12/11,João Pereira,Suco de Laranja Natural,2
+870,2023/02/01,Felipe Almeida,Leite Desnatado,3
+871,2023/01/12,José Pereira,Pasta de Alho,2
+872,2023/10/01,Rafael Silva,Arroz Integral,3
+873,2023/04/30,Carlos Rodrigues,Azeite de Oliva Extra Virgem,2
+874,2023/06/06,Pedro Oliveira,Macarrão Espaguete,2
+875,2023/03/17,Marcela Pereira,Leite Desnatado,6
+876,2023/06/04,Marcela Gomes,Azeitonas Verdes,8
+877,2023/01/01,Gabriel Rodrigues,Peito de Frango,1
+878,2023/02/16,Felipe Costa,Chocolate Amargo,3
+879,2023/05/11,Felipe Silva,Melancia Sem Semente,8
+880,2023/11/23,João Almeida,Pasta de Alho,7
+881,2023/08/10,Ana Silva,Batata Doce,8
+882,2023/11/28,Ana Gomes,Pêssego em Calda,2
+883,2023/12/05,José Martins,Castanha do Pará,1
+884,2023/08/09,Camila Lima,Sorvete de Chocolate,5
+885,2023/06/03,João Martins,Peito de Frango,7
+886,2023/02/12,Marcos Almeida,Maçã Gala,6
+887,2023/09/22,Rafael Lima,Biscoito Integral,7
+888,2023/12/27,Carlos Costa,Barras de Cereal,4
+889,2023/06/23,Rafael Silva,Granola,2
+890,2023/10/13,Paula Rodrigues,Cerveja Artesanal,6
+891,2023/08/06,Fernanda Rodrigues,Chá Verde,5
+892,2023/06/22,Luiza Oliveira,Cerveja Artesanal,3
+893,2023/09/17,Gabriel Oliveira,Biscoito Integral,3
+894,2023/12/18,Camila Almeida,Creme de Leite,1
+895,2023/06/15,Rafael Souza,Geleia de Frutas Vermelhas,1
+896,2023/02/05,Bruno Rodrigues,Cenoura Orgânica,5
+897,2023/02/16,Bruno Oliveira,Bolo de Cenoura,2
+898,2023/12/12,Carlos Almeida,Atum em Lata,8
+899,2023/01/13,Bruno Lima,Tomate Italiano,6
+900,2023/06/16,João Lima,Bolo de Cenoura,4
+901,2023/03/05,Marcos Gomes,Tomate Italiano,8
+902,2023/10/29,Pedro Almeida,Suco de Laranja Natural,8
+903,2023/09/11,Bruno Costa,Farinha de Aveia,4
+904,2023/02/21,Bruno Lima,Barras de Cereal,3
+905,2023/04/12,Marcos Rodrigues,Chá Verde,3
+906,2023/08/16,Beatriz Pereira,Granola,1
+907,2023/08/09,Paula Costa,Água de Coco,4
+908,2023/03/12,Rafael Almeida,Biscoito Integral,7
+909,2023/03/01,Lucas Silva,Cerveja Artesanal,4
+910,2023/05/07,Rafael Gomes,Cerveja Artesanal,4
+911,2023/10/29,Larissa Lima,Sorvete de Chocolate,3
+912,2023/12/31,Gabriel Martins,Batata Doce,8
+913,2023/07/06,Larissa Souza,Macarrão Espaguete,8
+914,2023/01/15,Fernanda Pereira,Castanha do Pará,1
+915,2023/01/01,Bruno Almeida,Cerveja Artesanal,3
+916,2023/12/26,Paula Souza,Tomate Italiano,8
+917,2023/12/15,Juliana Gomes,Ovos Orgânicos,4
+918,2023/01/17,Lucas Costa,Cerveja Artesanal,2
+919,2023/06/24,Bruno Rodrigues,Macarrão Espaguete,3
+920,2023/06/18,Gabriel Oliveira,Refrigerante de Guaraná,3
+921,2023/04/13,João Almeida,Castanha do Pará,5
+922,2023/09/21,Ana Rodrigues,Café Torrado e Moído,5
+923,2023/05/06,Carlos Gomes,Arroz Integral,8
+924,2023/03/31,Rafael Silva,Granola,1
+925,2023/07/21,Juliana Costa,Arroz Integral,3
+926,2023/08/24,Marcos Martins,Bolo de Cenoura,5
+927,2023/04/11,Fernanda Souza,Salmão Fresco,2
+928,2023/04/19,Paula Gomes,Farinha de Aveia,1
+929,2023/02/09,Carlos Silva,Manteiga sem Sal,7
+930,2023/09/24,Larissa Oliveira,Batata Doce,2
+931,2023/11/15,Rafael Almeida,Atum em Lata,7
+932,2023/09/13,João Oliveira,Geleia de Frutas Vermelhas,8
+933,2023/04/07,João Silva,Biscoito Integral,3
+934,2023/06/01,Marcela Almeida,Salmão Fresco,5
+935,2023/09/14,Larissa Rodrigues,Arroz Integral,5
+936,2023/03/21,Maria Lima,Refrigerante de Guaraná,5
+937,2023/08/13,Carlos Rodrigues,Biscoito Integral,2
+938,2023/05/17,Paula Pereira,Creme de Leite,5
+939,2023/07/06,Luiza Martins,Cerveja Artesanal,8
+940,2023/07/21,José Silva,Iogurte Natural,7
+941,2023/04/19,Camila Pereira,Molho de Tomate,7
+942,2023/09/10,Ana Oliveira,Barras de Cereal,5
+943,2023/03/21,Beatriz Costa,Água de Coco,7
+944,2023/04/25,Lucas Almeida,Pimenta do Reino,6
+945,2023/07/07,Juliana Oliveira,Mel Puro,6
+946,2023/05/24,Pedro Almeida,Macarrão Espaguete,4
+947,2023/12/26,Lucas Almeida,Barras de Cereal,8
+948,2023/08/25,Larissa Martins,Ovos Orgânicos,5
+949,2023/10/24,Camila Silva,Castanha do Pará,3
+950,2023/12/03,Bruno Gomes,Geléia de Morango,3
+951,2023/07/07,Ana Pereira,Bolo de Cenoura,2
+952,2023/03/14,Gabriel Souza,Batata Doce,6
+953,2023/12/07,Bruno Pereira,Alface Crespa,1
+954,2023/10/10,Ana Souza,Azeitonas Verdes,6
+955,2023/05/22,Pedro Martins,Castanha do Pará,7
+956,2023/08/08,Lucas Costa,Refrigerante de Guaraná,3
+957,2023/03/07,Marcos Almeida,Arroz Integral,1
+958,2023/06/11,José Silva,Bolo de Cenoura,2
+959,2023/04/13,Pedro Oliveira,Chocolate Amargo,6
+960,2023/01/08,José Gomes,Pão de Forma Integral,7
+961,2023/06/01,Bruno Pereira,Pêssego em Calda,2
+962,2023/08/26,José Silva,Café Torrado e Moído,4
+963,2023/07/26,Beatriz Pereira,Maçã Gala,2
+964,2023/08/07,Juliana Souza,Suco de Laranja Natural,4
+965,2023/08/03,Pedro Gomes,Creme de Leite,2
+966,2023/01/19,Gabriel Martins,Geléia de Morango,5
+967,2023/04/11,Beatriz Lima,Peito de Frango,8
+968,2023/10/03,Larissa Rodrigues,Pimenta do Reino,8
+969,2023/08/07,Marcos Lima,Mel Puro,2
+970,2023/07/26,Gabriel Rodrigues,Biscoito Integral,8
+971,2023/03/21,José Oliveira,Sorvete de Chocolate,6
+972,2023/05/04,Juliana Gomes,Geléia de Morango,8
+973,2023/07/19,Juliana Oliveira,Tomate Italiano,3
+974,2023/05/19,Felipe Lima,Azeitonas Verdes,8
+975,2023/06/09,Marcos Gomes,Molho de Tomate,3
+976,2023/12/20,Gabriel Pereira,Ovos Orgânicos,3
+977,2023/04/24,Camila Oliveira,Refrigerante de Guaraná,6
+978,2023/06/11,Marcos Oliveira,Sorvete de Chocolate,4
+979,2023/09/11,Ana Costa,Feijão Preto,8
+980,2023/09/26,Marcos Souza,Feijão Preto,7
+981,2023/08/31,Juliana Oliveira,Salmão Fresco,6
+982,2023/04/02,Bruno Rodrigues,Sorvete de Chocolate,3
+983,2023/10/11,Rafael Costa,Pasta de Amendoim,5
+984,2023/08/13,Ana Martins,Ovos Orgânicos,7
+985,2023/08/24,Rafael Silva,Pão de Queijo Congelado,1
+986,2023/08/28,Beatriz Almeida,Café Torrado e Moído,7
+987,2023/05/13,Paula Pereira,Sal Marinho,8
+988,2023/06/01,Rafael Almeida,Atum em Lata,3
+989,2023/12/09,Felipe Martins,Barras de Cereal,8
+990,2023/06/09,Marcos Almeida,Bolo de Cenoura,1
+991,2023/12/20,Beatriz Souza,Biscoito Integral,8
+992,2023/02/22,Marcela Souza,Manteiga sem Sal,5
+993,2023/01/10,Larissa Almeida,Chá Verde,7
+994,2023/04/29,Lucas Souza,Mel Puro,8
+995,2023/09/19,Bruno Souza,Creme de Leite,3
+996,2023/12/09,João Souza,Geléia de Morango,1
+997,2023/06/16,José Pereira,Manteiga sem Sal,2
+998,2023/01/26,João Silva,Alface Crespa,4
+999,2023/12/09,Fernanda Souza,Peito de Frango,7
+1000,2023/06/20,Gabriel Silva,Semente de Chia,1
